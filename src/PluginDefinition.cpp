@@ -20,7 +20,7 @@
 #include "definedConstants.h"
 
 
-
+//Forward declaration of some defined functions
 char* setup(HWND&, int&);
 void generalSurround(HWND, const char* startCond, int, const char* endCond, int, char* c, int);
 void addText(HWND, int, const char*);
