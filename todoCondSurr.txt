@@ -3,6 +3,6 @@
 
 -Make it so a blank space is not deleted after if run with no selection
 
--Comment (I already forget probably)
+-Comment
 
 -Check for memory leaks?
